@@ -1,5 +1,11 @@
 # Social Media Content Analyzer
 
+## Live Demo
+
+https://social-media-content-analyzer-mocha.vercel.app
+
+---
+
 This is a full-stack web application that allows users to upload a PDF or image file and analyze the content. The application extracts text from the uploaded file and provides simple suggestions to improve engagement.
 
 The objective of this project was to implement file handling, text extraction, and basic content analysis using a client-server architecture.
