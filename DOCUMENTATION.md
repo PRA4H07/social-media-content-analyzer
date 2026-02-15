@@ -45,8 +45,8 @@ The application was tested using publicly available documents such as resumes an
 ## Output 7
 ![Output 7](./screenshots/output7.png)
 
-## Wikipedia Test Output
+## Wikipedia Test Image
 ![Wikipedia Image](./screenshots/wikipedia.png)
 
-## Pdf Test Output
+## Pdf File
 ![PDF file](./screenshots/pdf.png)
